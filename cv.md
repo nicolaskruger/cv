@@ -1,13 +1,13 @@
-# 👨‍💻🌐 Full Stack Web Developer 🚀
+#  Full Stack Developer
 
-Hi 👋, my name is Nícolas Krüger, I am a 🌴Brazilian🌴 **full stack web developer** and a **computer engineer**. I like studying a lot and pushing myself.
+Hi, my name is Nícolas Krüger, I am a Brazilian **full stack developer** and a **computer engineer**.
 
 ## 💬 Contact
 
-- 📧 nicolas.nkruger@gmail.com
-- ☎️ +55 (51) 98138-5569
-- 💼 [LinkedIn](https://www.linkedin.com/in/nicolas-kruger-dev/)
-- :octocat: [GitHub](https://github.com/nicolaskruger)
+- nicolas.nkruger@gmail.com
+- +55 (51) 98138-5569
+- [LinkedIn](https://www.linkedin.com/in/nicolas-kruger-dev/)
+- [GitHub](https://github.com/nicolaskruger)
 
 ## 🎓 Academics
 
@@ -15,20 +15,19 @@ Hi 👋, my name is Nícolas Krüger, I am a 🌴Brazilian🌴 **full stack web 
 
 ## :octocat: Projects
 
-Here are some projects that I'm proud of 💪
+Here are some projects
 
 - [Next NES 👾](https://github.com/nicolaskruger/next-nes)
-  - My final project for computer engineering graduation, this is the project that I like the most. I picked that subject because I wasn't sure if I could do it, so when it was done, I was really glad.
+  - My final project for computer engineering graduation. I picked that subject because of the difficult and the computer fundamentals that i could learn with it.
 - [:octocat: Pokedex React](https://github.com/nicolaskruger/pokedex_react_ts)
-  - This project was my way to solve one of the challenges during my internship at **Crescer**. I implemented all the Pokeball effects as instructed, and it's incredible what you can do with CSS.
+  - A classic project for front end students. But my Pokedex is a bit different here we can battle an capture Pokemon to.  
   - [Site](https://pokedex-react-ts.vercel.app/home)
 - 🐍 SNAKE game lab view
-  - I think that project showed that I'm really a developer. It's really bad that I don't have the source code ☹️.
+  - Lab View is a block programmer interface for engineering but is not meant for game development end make a game for it is worth.
 - 🐍[Snake game C embedded](https://github.com/nicolaskruger/Snake)
-  - First, I want to thank teacher Bruna for giving me the opportunity for my first internship at Unisinos.
-  - I think that project is really cool.
+  - This is a graduated project that gave me an opportunity to start an internship at my University. This project explore thread, IO and display render in a micro controller.   
 
-## ⚒️ Work
+## ⚒️ Work - almost 4 years.
 
 - SKA | MES (2025 – Present)
   - Backend Developer (C#/.NET)
