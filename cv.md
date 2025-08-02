@@ -2,32 +2,36 @@
 
 Hi, my name is Nícolas Krüger, I am a Brazilian **full stack developer** and a **computer engineer**.
 
-## 💬 Contact
+## Contact
 
 - nicolas.nkruger@gmail.com
 - +55 (51) 98138-5569
 - [LinkedIn](https://www.linkedin.com/in/nicolas-kruger-dev/)
 - [GitHub](https://github.com/nicolaskruger)
 
-## 🎓 Academics
+## Academics
 
 - Graduated at **Unisinos** in **computer engineering**
 
-## :octocat: Projects
+## English
+
+- B1+
+
+## Projects
 
 Here are some projects
 
-- [Next NES 👾](https://github.com/nicolaskruger/next-nes)
+- [Next NES](https://github.com/nicolaskruger/next-nes)
   - My final project for computer engineering graduation. I picked that subject because of the difficult and the computer fundamentals that i could learn with it.
-- [:octocat: Pokedex React](https://github.com/nicolaskruger/pokedex_react_ts)
+- [Pokedex React](https://github.com/nicolaskruger/pokedex_react_ts)
   - A classic project for front end students. But my Pokedex is a bit different here we can battle an capture Pokemon to.  
   - [Site](https://pokedex-react-ts.vercel.app/home)
-- 🐍 SNAKE game lab view
+- SNAKE game lab view
   - Lab View is a block programmer interface for engineering but is not meant for game development end make a game for it is worth.
-- 🐍[Snake game C embedded](https://github.com/nicolaskruger/Snake)
+- [Snake game C embedded](https://github.com/nicolaskruger/Snake)
   - This is a graduated project that gave me an opportunity to start an internship at my University. This project explore thread, IO and display render in a micro controller.   
 
-## ⚒️ Work - almost 4 years.
+## Work - almost 4 years.
 
 - SKA | MES (2025 – Present)
   - Backend Developer (C#/.NET)
