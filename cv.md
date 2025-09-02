@@ -17,20 +17,6 @@ Hi, my name is Nícolas Krüger, I am a Brazilian **full stack developer** and a
 
 - B1+
 
-## Projects
-
-Here are some projects
-
-- [Next NES](https://github.com/nicolaskruger/next-nes)
-  - My final project for computer engineering graduation. I picked that subject because of the difficult and the computer fundamentals that i could learn with it.
-- [Pokedex React](https://github.com/nicolaskruger/pokedex_react_ts)
-  - A classic project for front end students. But my Pokedex is a bit different here we can battle an capture Pokemon to.  
-  - [Site](https://pokedex-react-ts.vercel.app/home)
-- SNAKE game lab view
-  - Lab View is a block programmer interface for engineering but is not meant for game development end make a game for it is worth.
-- [Snake game C embedded](https://github.com/nicolaskruger/Snake)
-  - This is a graduated project that gave me an opportunity to start an internship at my University. This project explore thread, IO and display render in a micro controller.   
-
 ## Work - almost 4 years.
 
 - SKA | MES (2025 – Present)
@@ -56,3 +42,19 @@ Here are some projects
   - Code managed in Bitbucket and CI/CD with Jenkins.
 - CWI Crescer Internship (Jul 2021 – Feb 2022)
   - Intensive Full Stack training program with hands-on projects using HTML, CSS, Java, SQL, React, and Spring Boot.
+
+## Projects
+
+Here are some projects
+
+- [Next NES](https://github.com/nicolaskruger/next-nes)
+  - My final project for computer engineering graduation. I picked that subject because of the difficult and the computer fundamentals that i could learn with it.
+- [Pokedex React](https://github.com/nicolaskruger/pokedex_react_ts)
+  - A classic project for front end students. But my Pokedex is a bit different here we can battle an capture Pokemon to.  
+  - [Site](https://pokedex-react-ts.vercel.app/home)
+- SNAKE game lab view
+  - Lab View is a block programmer interface for engineering but is not meant for game development end make a game for it is worth.
+- [Snake game C embedded](https://github.com/nicolaskruger/Snake)
+  - This is a graduated project that gave me an opportunity to start an internship at my University. This project explore thread, IO and display render in a micro controller.   
+
+
