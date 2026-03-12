@@ -1,0 +1,1 @@
+It is c# with .Net framework because I use it daily, and Typescript/Javascript with React because I haver more than a year background in that language and still my favorite pic for automating some task on work.
