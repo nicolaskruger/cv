@@ -1,6 +1,6 @@
-#  Full Stack Developer
+# Nícolas Krüger — Full Stack Developer
 
-Hi, my name is Nícolas Krüger, I am a Brazilian **full stack developer** and a **computer engineer**.
+Brazilian **full stack developer** and **computer engineer** with 5 years of experience building web applications and backend services across fintech, industry 4.0, and consulting environments.
 
 ## Contact
 
@@ -9,37 +9,57 @@ Hi, my name is Nícolas Krüger, I am a Brazilian **full stack developer** and a
 - [LinkedIn](https://www.linkedin.com/in/nicolas-kruger-dev/)
 - [GitHub](https://github.com/nicolaskruger)
 
-## Academics
+## Skills
 
-- Graduated at **Unisinos** in **computer engineering**
+**Frontend:** React, Next.js, TypeScript, JavaScript, Angular, SCSS, Tailwind CSS, ShadCN, Storybook  
+**Backend:** C#/.NET, Java/Spring Boot, NestJS, Node.js, GraphQL, REST APIs  
+**Databases:** MongoDB, SQLServer, Oracle, Redis  
+**Testing:** Jest, JUnit, Mockito, Cypress, React Testing Library  
+**DevOps & Tools:** Azure DevOps, Jenkins, Bitbucket, RabbitMQ, Zustand, Apollo Client  
+**Architecture:** Microservices, Hexagonal Architecture, CI/CD pipelines
 
-## English
+## Experience
 
-- B1+
+### SKA | MES — Backend Developer (C#/.NET)
+**2025 – Present**
 
-## Work - almost 5 years.
+- Developing an Industry 4.0 MES (Manufacturing Execution System) platform in C#/.NET.
+- Implementing state control logic on the backend to coordinate production workflows.
 
-- SKA | MES (2025 – Present)
-  - Backend Developer (C#/.NET)
-  - Development of an Industry 4.0 MES platform, with state control managed by the backend.
-- Freelancer (Sep 2024 – Jan 2025)
-  - Full Stack Developer (React/Next.js/JavaScript/TypeScript/NestJS)
-  - Freelance development using React and Next.js with ShadCN and Tailwind for styling.
-  - State management with Zustand and Apollo Client for backend integration via GraphQL.
-  - Backend built with NestJS and MongoDB, implementing API routes using Nest components.
-- CWI | Connecta (Aug 2022 – May 2023)
-  - Developed an SPA using React/Next.js with TypeScript and SCSS.
-  - Used Jest, RTS, and Cypress for testing.
-  - Documented components with Storybook and integrated with the backend via REST APIs.
-  - Collaborated with a multidisciplinary team to create responsive and accessible interfaces.
-  - Integrated with Azure DevOps for CI/CD and version control.
-- CWI | Banco BV (Feb 2022 – Aug 2022)
-  - Backend Developer (Java/Spring)
-  - Developed microservices using a hexagonal architecture.
-  - Integrated with SQLServer, Oracle, and Redis databases.
-  - Implemented test coverage with JUnit, Mockito, and RabbitMQ integration.
-  - Contributed to some frontend tasks using Angular.
-  - Code managed in Bitbucket and CI/CD with Jenkins.
-- CWI Crescer Internship (Jul 2021 – Feb 2022)
-  - Intensive Full Stack training program with hands-on projects using HTML, CSS, Java, SQL, React, and Spring Boot.
+### Freelancer — Full Stack Developer
+**Sep 2024 – Jan 2025**
 
+- Built web applications using React and Next.js with ShadCN and Tailwind CSS.
+- Managed client-side state with Zustand and integrated backends via GraphQL using Apollo Client.
+- Developed REST APIs with NestJS and MongoDB.
+
+### CWI Software | Connecta — Frontend Developer (React/Next.js)
+**Aug 2022 – May 2023**
+
+- Built a scalable SPA with React/Next.js, TypeScript, and SCSS.
+- Wrote unit and integration tests with Jest, React Testing Library, and Cypress.
+- Documented components with Storybook and consumed backend services via REST APIs.
+- Delivered responsive, accessible interfaces in a multidisciplinary agile team.
+- Managed CI/CD pipelines and version control through Azure DevOps.
+
+### CWI Software | Banco BV — Backend Developer (Java/Spring)
+**Feb 2022 – Aug 2022**
+
+- Built microservices using hexagonal architecture in Java/Spring Boot.
+- Integrated with SQLServer, Oracle, and Redis databases.
+- Achieved high test coverage using JUnit, Mockito, and RabbitMQ integration tests.
+- Contributed to Angular frontend tasks and managed code in Bitbucket with Jenkins CI/CD.
+
+### CWI Crescer — Full Stack Internship
+**Jul 2021 – Feb 2022**
+
+- Completed an intensive full stack training program with hands-on projects in HTML, CSS, Java, SQL, React, and Spring Boot.
+
+## Education
+
+**Computer Engineering** — Unisinos University
+
+## Languages
+
+- Portuguese: Native  
+- English: B1+ (intermediate)

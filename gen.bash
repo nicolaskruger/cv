@@ -4,3 +4,10 @@ pandoc profile.md -o profile.pdf --pdf-engine=pdflatex
 
 pandoc cv_pt-br.md -o cv_pt-br.pdf --pdf-engine=lualatex
 gs -o 'cv_Nícolas Krüger.pdf' -sDEVICE=pdfwrite -dFILTERALL cv_pt-br.pdf
+
+
+pandoc cv_pt-br.md -o cv_pt-br.pdf --pdf-engine=lualatex
+mv cv_pt-br.md  'profile - Nícolas Krüger.pdf'
+gs -o 'cv_Nícolas Krüger.pdf' -sDEVICE=pdfwrite -dFILTERALL cv_pt-br.pdf
+
+
